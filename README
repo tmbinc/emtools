@@ -1,0 +1,7 @@
+Two very hacky tools to convert EM35x flash dumps into .ebl (which can be
+uploaded using the normal bootloader) and back to a binary image.
+
+I only used publically available information from the (now defunct)
+www.ember.com website.
+
+ - tmbinc
